@@ -1,0 +1,43 @@
+---
+layout: default
+sub_section: omb-info.md
+title: Alert boxes
+anchors:
+  - anchor: Without OMB Number
+  - anchor: Without Response Burden
+  - anchor: With Custom Respondent Burden Benefit Type
+---
+
+# OMB Info
+
+example here
+
+## Without OMB Number
+
+Without ...
+
+{% include storybook-preview.html story="components-omb-info--default" %}
+
+
+## Without Response Burden
+
+Without ...
+
+{% include storybook-preview.html story="components-omb-info--warning" %}
+
+## With Custom Respondent Burden Benefit Type
+
+With ...
+
+{% include storybook-preview.html story="components-omb-info--success" %}
+
+
+## Usage
+
+### Next Level Item
+
+* List item
+
+
+
+
